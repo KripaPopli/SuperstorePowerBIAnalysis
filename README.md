@@ -1,7 +1,7 @@
 # SuperstorePowerBIAnalysis
 
 ## Overview: 
--This project demonstrates an end-to-end data analysis pipeline using SQL, Excel, and Power BI, independently building the workflow from dataset creation in SQL to analysis and visualization in Power BI.
+This project demonstrates an end-to-end data analysis pipeline using SQL, Excel, and Power BI, independently building the workflow from dataset creation in SQL to analysis and visualization in Power BI.
 
 ## Objectives: 
 - Extracting necessary data as per the user's requirement. 
@@ -9,7 +9,7 @@
 - Analysing domain-distribution and uncovering further trends. 
 
 ## Data Source: 
--The dataset used in this project is derived from a university dorm allotment list. It was transformed into a structured SQL dataset, with hostel names anonymized and numerical values modified to create a simulated (fictitious) dataset. The dataset does not represent actual university data.
+The dataset used in this project is derived from a university dorm allotment list. It was transformed into a structured SQL dataset, with hostel names anonymized and numerical values modified to create a simulated (fictitious) dataset. The dataset does not represent actual university data.
 
 ## Tools used along with the Workflow: 
 ### SQL: 
