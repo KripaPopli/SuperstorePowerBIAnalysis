@@ -12,7 +12,7 @@ The project shows an interactive Power BI Exploratory Data Analysis report of a 
 - The dataset(the .xlsx file) was imported from Kaggle. 
 
 ## Workflow and components: 
-- The Excel file downloaded from Kaggle 
+- The Excel file downloaded from Kaggle and imported into Power BI. 
 - Necessary visualizations were added to the report, such as category and product popularity, regional engagement, and yearly profits along with respective insights.  
 - Slicers of the important domains to view and analyse data of individual entries. 
 
