@@ -20,6 +20,6 @@ The project shows an interactive Power BI Exploratory Data Analysis report of a 
 - Sales show a positive trend throughout the years. 
 - Phones, copiers, chairs and bookcases are the top products of the superstore and make up almost half(48.92%) of the sales. 
 - Asia Pacific is the largest contributing market, while Western Europe is the largest contributing Region. 
-- The superstore and shown consistent profits throughout the years at 11%. 
+- The superstore has shown consistent profits throughout the years at 11%. 
 
 ## Kindly download the .pbix file to view and interact with the report. 
